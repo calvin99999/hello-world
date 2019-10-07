@@ -1,2 +1,4 @@
 # hello-world
-This is the Hello-Word test repository
+
+Hey folks, 
+I am Calvin - 25 years orld from Germany and I am looking forward to my masters in BIPM.
